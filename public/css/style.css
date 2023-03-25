@@ -115,3 +115,24 @@ img {
   text-align: center;
   margin-top: 1rem;
 }
+
+
+@media only screen and (max-width: 900px) {
+  .navbar{
+    display: flex;
+  }
+  
+.form-h1{
+  font-size: 32px !important;
+}
+
+.form-control input{
+  height: 16px !important;
+  width: 300px !important;
+}
+
+  form select{
+    height: 16px !important;
+    width: 200px !important;
+  }
+}
