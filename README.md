@@ -35,7 +35,3 @@ This application can be easily deployed to a cloud platform such as Heroku using
 ## Contributions
 
 Contributions to this project are welcome! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify it as you see fit.
